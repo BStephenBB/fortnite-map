@@ -1,0 +1,20 @@
+{
+  "name": "shroomples",
+  "version": "1.0.0",
+  "description": "interactive map that shows all apple and mushroom locations in Fortnite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "keywords": [
+    "fortnite",
+    "apples",
+    "mushrooms"
+  ],
+  "author": "Stephen Brown-Bourne",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
